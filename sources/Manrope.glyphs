@@ -12,7 +12,7 @@ code = "zero one two three four five six seven eight nine";
 name = Digit;
 }
 );
-copyright = "Copyright 2019 The Manrope Project Authors (https://github.com/sharanda/manrope)";
+copyright = "Copyright 2019 The Manrope Project Authors (https://github.com/googlefonts/manrope)";
 customParameters = (
 {
 name = license;

@@ -12,3 +12,6 @@ proof
 .Trashes
 ehthumbs.db
 Thumbs.db
+.ninja_log
+*.ninja
+sources/instance_ufos/
