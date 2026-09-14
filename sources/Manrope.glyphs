@@ -50397,5 +50397,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 4;
-versionMinor = 504;
+versionMinor = 505;
 }
